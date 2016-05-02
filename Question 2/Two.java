@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Two here.
+ * My solution to Project Euler Question 2
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Vignesh Rajmohan
+ * @version May 1, 2016
  */
 public class Two
   
